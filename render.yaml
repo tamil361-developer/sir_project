@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: sir-project
+    runtime: static
+    buildCommand: ""
+    staticPublishPath: ./nextz-website
+    autoDeploy: true
