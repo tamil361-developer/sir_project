@@ -1,0 +1,1 @@
+Make sure to have images s.png, tcs.png, infosys.png, wipro.png, accenture.png, cognizant.png, techm.png, s2.png, books.png in this folder
