@@ -250,7 +250,7 @@ body {
 .place-placement-section {
     position: relative;
     padding: 80px 0;
-  background: linear-gradient(180deg, rgba(255,255,255,0) 0%, #e8f9eb 100%);
+  background: white;
     overflow: hidden;
 }
 
@@ -348,7 +348,7 @@ body {
    ========================================= */
 .exp-experience-section {
     position: relative;
-    background-color: white;
+    background: white;
     overflow: hidden;;
 }
 
@@ -455,7 +455,7 @@ body {
 .crs-courses-section {
     position: relative;
     /* padding: 80px 0; */
-    background: linear-gradient(180deg, rgba(255,255,255,0) 0%, #e8f9eb 100%);
+    background: white;
     overflow: hidden;
 }
 
