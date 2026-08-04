@@ -279,7 +279,7 @@ body {
 .place-mobile-break { display: none; }
 .place-desktop-break { display: block; }
 
-.place-carousel-wrapper { display: flex; align-items: center; justify-content: center; gap: 20px; width: 100%; margin-bottom: 30px; position: relative; z-index: 10; }
+.place-carousel-wrapper { display: flex; align-items: center; justify-content: center; gap: 19px; width: 100%; margin-bottom: 30px; position: relative; z-index: 10; }
 .place-companies-track-container { 
     width: 100%; 
     max-width: 1050px; 
